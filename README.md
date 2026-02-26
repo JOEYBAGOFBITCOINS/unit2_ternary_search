@@ -1,4 +1,4 @@
-# unit2_teTernary Search (Divide and Conquer)
+# unit2_Ternary Search (Divide and Conquer)
 
 This program implements a ternary search algorithm in C++ to search for a song inside an alphabetically sorted playlist.
 
